@@ -23,7 +23,7 @@ Client test site for [expense-tracker-api](https://github.com/Bluette1/expense-t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Bluette1/client-test](https://github.com/Bluette1/client-test)
 
 ## My process
 
